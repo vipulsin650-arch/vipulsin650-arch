@@ -1,18 +1,18 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=400&fit=crop" width="100%" />
+  <img src="https://github.com/user-attachments/assets/d7761c75-3243-4cb3-a47b-1ac3c1b0b445" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://twitter.com/Vipul_tex">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/twitter/follow/Vipul_tex" />
   </a>
   <a href="mailto:vipul.sin.650@gmail.com">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/with0utlimits">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com">
+  <a href="https://instagram.com/itsmevipulsingh">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
@@ -73,8 +73,8 @@
   <a href="https://linkedin.com/in/with0utlimits">
     <img src="https://img.shields.io/badge/LinkedIn-in%2Fwith0utlimits-blue?style=flat-square&logo=linkedin" />
   </a>
-  <a href="https://www.instagram.com/itsmevipulsingh/?hl=en">
-    <img src="https://img.shields.io/badge/Instagram-@vipul__tex-white?style=flat-square&logo=instagram" />
+  <a href="https://instagram.com/itsmevipulsingh">
+    <img src="https://img.shields.io/badge/Instagram-@itsmevipulsingh-white?style=flat-square&logo=instagram" />
   </a>
 </p>
 
