@@ -74,7 +74,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-in%2Fwith0utlimits-blue?style=flat-square&logo=linkedin" />
   </a>
   <a href="https://instagram.com">
-    <img src="https://img.shields.io/badge/Instagram-@vipul__tex-white?style=flat-square&logo=instagram" />
+    <img src="https://img.shields.io/badge/Instagram-@itsmevipulsingh-white?style=flat-square&logo=instagram" />
   </a>
 </p>
 
