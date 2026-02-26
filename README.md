@@ -1,21 +1,10 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d7761c75-3243-4cb3-a47b-1ac3c1b0b445" width="100%" />
-</p>
+[![mee](https://github.com/user-attachments/assets/d7761c75-3243-4cb3-a47b-1ac3c1b0b445)](https://vipul-singh-portfolio.vercel.app)
 
-<p align="center">
-  <a href="https://twitter.com/Vipul_tex">
-    <img src="https://img.shields.io/twitter/follow/Vipul_tex" />
-  </a>
-  <a href="mailto:vipul.sin.650@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/with0utlimits">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/itsmevipulsingh">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+[![x](https://img.shields.io/twitter/follow/Vipul_tex)](https://x.com/Vipul_tex)
+[![Gmail](https://img.shields.io/badge/Gmail-vipul.sin.650%40gmail.com-red?style=flat&logo=gmail)](mailto:vipul.sin.650@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram)](https://instagram.com/itsmevipulsingh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin)](https://linkedin.com/in/with0utlimits)
+[![GitHub](https://img.shields.io/badge/GitHub-vipulsin650--arch-white?style=flat&logo=github)](https://github.com/vipulsin650-arch)
 
 ---
 
@@ -67,7 +56,7 @@
   <a href="mailto:vipul.sin.650@gmail.com">
     <img src="https://img.shields.io/badge/Email-vipul.sin.650%40gmail.com-blue?style=flat-square&logo=gmail" />
   </a>
-  <a href="https://twitter.com/Vipul_tex">
+  <a href="https://x.com/Vipul_tex">
     <img src="https://img.shields.io/badge/Twitter-@Vipul_tex-blue?style=flat-square&logo=twitter" />
   </a>
   <a href="https://linkedin.com/in/with0utlimits">
