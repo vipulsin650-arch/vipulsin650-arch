@@ -73,7 +73,7 @@
   <a href="https://linkedin.com/in/with0utlimits">
     <img src="https://img.shields.io/badge/LinkedIn-in%2Fwith0utlimits-blue?style=flat-square&logo=linkedin" />
   </a>
-  <a href="https://instagram.com">
+  <a href="https://www.instagram.com/itsmevipulsingh/?hl=en">
     <img src="https://img.shields.io/badge/Instagram-@vipul__tex-white?style=flat-square&logo=instagram" />
   </a>
 </p>
