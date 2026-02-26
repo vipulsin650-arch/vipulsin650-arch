@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11a8ff,100:0055ff&height=300&section=header&text=VIPUL%20SINGH&fontSize=90&animation=fadeIn&fontAlignY=35" />
+  <img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=400&fit=crop" width="100%" />
 </p>
 
 <p align="center">
@@ -11,6 +11,9 @@
   </a>
   <a href="https://linkedin.com/in/with0utlimits">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -58,18 +61,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vipulsin650-arch&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipulsin650-arch&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
@@ -81,6 +72,9 @@
   </a>
   <a href="https://linkedin.com/in/with0utlimits">
     <img src="https://img.shields.io/badge/LinkedIn-in%2Fwith0utlimits-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://instagram.com">
+    <img src="https://img.shields.io/badge/Instagram-@vipul__tex-white?style=flat-square&logo=instagram" />
   </a>
 </p>
 
