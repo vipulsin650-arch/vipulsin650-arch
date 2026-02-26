@@ -11,7 +11,7 @@
 ## 👋 Hey, I'm Vipul Singh!
 
 <p align="center">
-  <b>BTech CS Student @ Galgotias University</b> | <b>3rd Year</b>
+  <b>BTech CS Student @ Galgotias University</b> | <b>1st Year</b>
 </p>
 
 <p align="center">
